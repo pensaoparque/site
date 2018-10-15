@@ -1,0 +1,137 @@
+html, body 
+{
+	height:400px;
+	width:900px;
+	margin:0;
+	padding:0;
+	
+	color: #727272;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 17px;
+	text-align: left;
+}
+
+/* SERVICES */
+#services
+{
+}
+
+#condicoes, #internet, #parque, #reservas, 
+#criancas, #animais, #comida
+{
+	margin-left:100px;
+}
+
+#internet, #reservas, #animais
+{
+	margin-left:350px;
+	margin-top:-30px;
+}
+
+#cd_image, #in_image, #pa_image, #re_image, 
+#cr_image, #an_image, #co_image
+{
+	width:70px;
+	height:70px;
+	float:left;
+	margin-right:20px;
+}
+
+#cd_tittle, #in_tittle, #pa_tittle, #re_tittle,
+#cr_tittle, #an_tittle, #co_tittle
+{
+	font-weight:bold;
+	color:#004A7F;
+}
+
+#cd_descr, #in_descr, #pa_descr, #re_descr, 
+#cr_descr, #an_descr, #co_descr
+{
+	width:550px;
+	height:60px;
+}
+
+
+/* CONDICOES */
+
+#condicoes
+{
+}
+
+#cd_image
+{
+	background-image:url('../images/services/1_condicoes.png');
+}
+
+/* INTERNET */
+
+#internet
+{
+	margin-top:-35px;
+}
+
+#in_image
+{
+	background-image:url('../images/services/2_internet.png');
+}
+
+/* PARQUE */
+
+#parque
+{
+}
+
+#pa_image
+{
+	background-image:url('../images/services/3_parque.png');
+}
+
+/* RESERVAS */
+
+#reservas
+{
+	margin-top:-35px;
+}
+
+#re_image
+{
+	background-image:url('../images/services/4_reservas.png');
+}
+
+/* CRIANCAS */
+
+#criancas
+{
+}
+
+#cr_image
+{
+	background-image:url('../images/services/5_criancas.png');
+}
+
+/* ANIMAIS */
+
+#animais
+{
+	margin-top:-20px;
+}
+
+#an_image
+{
+	background-image:url('../images/services/6_animais.png');
+}
+
+/* COMIDAS */
+
+#comida
+{
+}
+
+#co_image
+{
+	background-image:url('../images/services/7_comida.png');
+}
+

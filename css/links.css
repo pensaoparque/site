@@ -1,0 +1,133 @@
+html, body 
+{
+	height:400px;
+	width:900px;
+	margin:0;
+	padding:0;
+
+	color: #727272;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 17px;
+	text-align: left;
+}
+
+/* LINKS */
+a img 
+{
+	border:none; 
+}
+ #links
+{
+	/*background-color:Silver;*/
+}
+a
+{
+	text-decoration:none;
+}
+
+#termas_portugal, #camara_amares, #wikipedia,
+#termas_caldelas, #abouaaboua, #terras_homem
+{
+	width:580px;
+	height:70px;
+	margin-left:100px;
+}
+#camara_amares, #termas_caldelas, #terras_homem
+{
+	margin-left:350px;
+}
+
+#tp_image, #cm_image, #wiki_image, #tc_image, #ca_image, #th_image
+{
+	height:70px;
+	width:70px;
+	float:left;
+	margin-right:20px;
+	/*cursor:pointer;*/
+}
+
+#tp_descr, #cm_descr, #wiki_descr, #tc_descr, #ta_descr, #th_descr
+{
+	height:70px;
+	width:580px;
+}
+
+#tp_tittle, #cm_tittle, #wiki_tittle, #tc_tittle, #ta_tittle, #th_tittle
+{
+	font-weight:bold;
+	color:#004A7F;
+}
+
+/* TERMAS CALDELAS */
+
+#termas_caldelas
+{
+}
+
+#tp_image
+{
+	/*background-image:url('../images/links/1_termas_portugal.png');*/
+}
+
+/* CAMAMARA AMARES */
+
+#camara_amares
+{
+}
+
+#cm_image
+{
+	background-image:url('../images/links/2_camara_amares.png');
+}
+
+/* WIKIPEDIA */
+
+#wikipedia
+{
+}
+#tc_image
+{
+	background-image:url('../images/links/4_termas_caldelas.png');
+}
+
+#wiki_image
+{
+	background-image:url('../images/links/3_wikipedia.png');
+}
+
+/* TERMAS DE CALDELAS */
+
+#termas_caldelas
+{
+}
+
+#tc_image
+{
+	background-image:url('../images/links/4_termas_caldelas.png');
+}
+
+/* ABOUA ABOUA */
+
+#abouaaboua
+{
+}
+
+#ca_image
+{
+	background-image:url('../images/links/5_aboua_aboua.png');
+}
+
+
+/* TERRAS DO HOMEM */
+
+#terras_homem
+{
+}
+
+#th_image
+{
+	background-image:url('../images/links/6_terras_homem.png');
+}

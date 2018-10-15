@@ -1,0 +1,165 @@
+html, body 
+{
+	/*background-color:Silver;*/
+	height:400px;
+	width:900px;
+	margin:0;
+	padding:0;
+
+	color: #727272;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 17px;
+	text-align: left;
+}
+
+/* CONTACTS */
+
+#contacts
+{
+	float:left;	
+}
+
+#googleMaps
+{
+	width:450px;
+	height:320px;
+	margin-left:460px;
+	float:none;
+	/*background-color:silver;*/
+}
+
+a.emailLink
+{
+	text-decoration:none;
+	color:#727272;
+}
+
+/* TITTLE */
+
+#tittle, #tele, #addr, #email, #coord, #way
+{
+	font-weight:bold;
+	color:#004A7F;
+	margin-left:100px;
+}
+
+#tele_descr, #addr_descr, #addr_post, #email_descr, #coord_descr, #coord_all
+{
+	margin-left:100px;
+	margin-bottom:10px;
+}
+
+#tittle
+{
+	margin-top:20px;
+	margin-bottom:40px;	
+	margin-left:100px;
+}
+
+#tele
+{
+	
+}
+
+/* TELEFONE */
+
+#tele_descr
+{
+	
+}
+
+/* ENDEREÇO */
+
+#addr
+{
+	
+}
+
+#addr_descr
+{
+	margin-bottom:0px;	
+}
+
+#addr_post
+{
+
+}
+
+/* EMAIL */
+
+#email
+{
+	
+}
+
+#email_descr
+{
+	
+}
+
+/* COORDENADAS */
+
+#coord
+{
+	
+}
+
+#coord_descr
+{
+	margin-bottom:0px;
+}
+
+#coord_all
+{
+	
+}
+
+/* GOOGLE MAPS */
+#map_tittle
+{
+	font-weight:bold;
+	color:#004A7F;
+	padding-top:20px;
+}
+#maps
+{
+	
+}
+
+
+/* CAMINHO */
+
+#way
+{
+}
+
+#way_descr01, #way_descr02, #way_descr03, #way_descr04, 
+#way_descr05, #way_descr06, #way_descr07, #way_descr08, 
+#way_descr09, #way_descr10, #way_descr11, #way_descr12, 
+#way_descr13, #way_descr14, #way_descr15, #way_descr16, 
+#way_descr17, #way_descr18
+{
+	margin-left:100px;
+}
+
+#way_descr02, #way_descr04, #way_descr06, #way_descr08, 
+#way_descr10, #way_descr12, #way_descr14, #way_descr16, 
+#way_descr18
+{
+	margin-bottom:10px;
+	margin-left:105px;	
+}
+
+#way_good
+{
+	font-weight:bold;
+	margin-left:700px;
+}
+
+#way_descr
+{
+	height:100%;	
+}

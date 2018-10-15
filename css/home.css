@@ -1,0 +1,107 @@
+html, body 
+{
+	height:400px;
+	width:900px;
+	margin:0;
+	padding:0;
+
+	color: #727272;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 17px;
+	text-align: left;
+}
+
+/* HOME */
+
+#home
+{
+	
+}
+
+#home_intro, #home_location, #home_relax,
+#home_know, #home_visit
+{
+	width:580px;
+	height:70px;
+	margin-left:100px;
+}
+
+#home_location, #home_know
+{
+	margin-left:350px;
+}
+
+#hi_image, #hl_image, #hr_image, #hk_image, #hv_image
+{
+	height:70px;
+	width:70px;
+	float:left;
+	margin-right:20px;
+	/*cursor:pointer;*/
+}
+
+#hi_descr, #hl_descr, #hr_descr, #hk_descr, #hv_descr
+{
+	height:70px;
+	width:580px;
+}
+
+#hi_tittle, #hl_tittle, #hr_tittle, #hk_tittle, #hv_tittle
+{
+	font-weight:bold;
+	color:#004A7F;
+}
+
+/* HOME INTRO*/
+#home_intro
+{
+	/*margin-top: 50px;*/
+}
+
+#hi_image
+{
+	background-image:url('../images/home/1_home_intro.png');
+}
+
+/* HOME LOCATION*/
+#home_location
+{
+}
+
+#hl_image
+{
+	background-image:url('../images/home/2_home_location.png');
+}
+
+/* HOME RELAX*/
+#home_relax
+{
+}
+
+#hr_image
+{
+	background-image:url('../images/home/3_home_relax.png');
+}
+
+/* HOME KNOW*/
+#home_know
+{
+}
+
+#hk_image
+{
+	background-image:url('../images/home/4_home_know.png');
+}
+
+/* HOME VISIT*/
+#home_visit
+{
+}
+
+#hv_image
+{
+	background-image:url('../images/home/5_home_visit.png');
+}
